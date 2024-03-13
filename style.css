@@ -1,0 +1,26 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: hwb(191 49% 26% / 0.788);
+}
+
+#Projects {
+  padding-bottom: 6rem;
+  background-color: hwb(191 49% 26% / 0.788);
+}
+#About{
+  padding-top: 6rem;
+  background-color: hwb(191 49% 26% / 0.788);
+}
+#Contact{
+  padding-top: 5rem;
+  background-color: hwb(191 49% 26% / 0.788);
+}
+
+section{
+  padding-top: rem;
+}
+
